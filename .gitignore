@@ -1,0 +1,24 @@
+# Archivos de salida de compilación
+*.elf
+*.o
+*.obj
+*.map
+*.lst
+*.sym
+*.as
+*.d
+
+# Carpetas de construcción (por default "dist" y "build" en MPLAB X)
+build/
+
+# Archivos de configuración generados por el IDE
+nbproject/Makefile-*
+nbproject/private/
+
+# Archivos temporales del sistema o editores
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
